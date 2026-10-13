@@ -1,0 +1,3 @@
+includes/config.local.php
+*.log
+/includes/config.local.php
